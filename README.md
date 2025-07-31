@@ -30,10 +30,8 @@ https://drive.google.com/file/d/1Cmu9Ta66coltV2aFt09e09sI3be9CFeS/view?usp=shari
 # Link to the PDF (Dashboard) File
 https://drive.google.com/file/d/1Uh-u6UpT2oPA_KcmV7WT52TYFS1l-hIS/view?usp=sharing
 
-# Links to train the model
-https://drive.google.com/file/d/1sSrI2K2tDgWM3FjHbBLukRLItJRnnJPT/view?usp=sharing
-https://drive.google.com/file/d/1EIWC-fz4Th02pYllmUcDjtI7dAd72QaH/view?usp=sharing
-https://drive.google.com/file/d/1EGetfwHHXYImHb-gAOvRqMD2fs4eE06v/view?usp=sharing
+# Link to Streamlit
+https://ai-malpractice-detector-f7cnodtgh6v96dlz6rru3v.streamlit.app/
 
 # Key Features:
 
@@ -71,4 +69,4 @@ This project uses only free or low-barrier tools, making it replicable for schoo
 
 # Conclusion:
 This project demonstrates a practical, AI-centered approach to solving a real educational challenge using open-source tools and showcases how data and AI can strengthen educational integrity.
-6d3c729e1b2a979d4f79649ce77a13c68aa4ca5c
+
